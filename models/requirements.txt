@@ -1,3 +1,4 @@
 numpy
 matplotlib
 tqdm
+# install pytorch as well, depending on your version and os
